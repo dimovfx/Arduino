@@ -1,4 +1,5 @@
 // Arduino Nano DRAM tester
+// 2022-03-16
 
 #define DI  3 //D3
 #define DO  14 //A0
